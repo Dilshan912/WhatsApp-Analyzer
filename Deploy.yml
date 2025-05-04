@@ -1,0 +1,4 @@
+$ git clone https://github.com/PetengDedet/WhatsApp-Analyzer.git
+
+$ cd WhatsApp-Analyzer
+$ python whatsapp_analyzer.py chat_example.txt --stopword indonesian 
